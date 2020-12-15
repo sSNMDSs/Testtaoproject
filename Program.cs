@@ -8,7 +8,7 @@ namespace BTĐA
         {
             Console.WriteLine("Hello World!");
             DateTime now = DateTime.Now;
-
+	    Console.WriteLine("Thay doi");
             Console.WriteLine("Now is " + now);
         }
     }
